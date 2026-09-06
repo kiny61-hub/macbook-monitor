@@ -4694,5 +4694,13 @@
     "offer_count": 0,
     "cheapest_price": null,
     "cheapest_product": null
+  },
+  {
+    "timestamp_iso": "2026-09-06T17:26:21.169814+00:00",
+    "status": "blocked",
+    "fetch": "http-403",
+    "offer_count": 0,
+    "cheapest_price": null,
+    "cheapest_product": null
   }
 ]
