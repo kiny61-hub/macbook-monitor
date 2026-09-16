@@ -1,11 +1,11 @@
 # MacBook Watch — Alza.sk (≥36 GB RAM)
 
-**Status:** 🚫 blocked by Alza's bot protection (`http-403`) · 2026-09-16 20:26 UTC
+**Status:** 🚫 blocked by Alza's bot protection (`http-403`) · 2026-09-16 23:16 UTC
 
-> Prices below are from the last successful check, **not** current. Blocked checks in a row: **950**.
+> Prices below are from the last successful check, **not** current. Blocked checks in a row: **951**.
 
 ---
 
-_Checks recorded: 950 · blocked: 950 · fetch mode: direct_
+_Checks recorded: 951 · blocked: 951 · fetch mode: direct_
 
 _Updated automatically by GitHub Actions._
